@@ -1,0 +1,2 @@
+include ':psphostSDK'
+include ':app', ':psphost'
